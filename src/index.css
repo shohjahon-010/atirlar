@@ -80,7 +80,7 @@ color: #867A68;
 .header {
   width: 1440px;
 height: 500px;
-  background-image: url(./img/header-img.png);
+  background-image: url(../public/img/header-img.png);
 }
 .victoria-content {
   margin-top: 110px;
@@ -172,7 +172,7 @@ padding-top: 120px;
 .victoria-text {
   width: 522px;
   height: 400px;
-  background-image: url(./img/victoria-bg-img.png);
+  background-image: url(../public/img/victoria-bg-img.png);
 }
 .victoria-title {
   text-align: center;
@@ -204,14 +204,14 @@ padding-bottom: 273px;
 }
 .aventus {
   width: 359px;
-  background-image: url(.img/aventus.png);
+  background-image: url(../public/img/aventus.png);
 }
 .narco {
   width: 359px;
-  background-image: url(./img/narco.png);
+  background-image: url(../public/img/narco.png);
 }
 .bonus {
-  background-image: url(./img/bonus.png);
+  background-image: url(../public/img/bonus.png);
 }
 
 .bonus-text h3 {
@@ -238,12 +238,12 @@ margin-bottom: 35px;
   margin-top: 50px;
 }
 .atirlar-title {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 10px;
 
 }
 .atirlar-title2 {
-  margin-top: 20px;
+  margin-top: 1px;
 }
 
 .div3 {
@@ -267,8 +267,8 @@ margin-bottom: 35px;
 color: #3C3428;
 }
 .atirlar-title3 {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .buttonn {
   padding: 12px 72px;
